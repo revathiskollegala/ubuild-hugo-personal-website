@@ -5,29 +5,16 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: ''
   navigation:
+  - link_url: www.linkedin.com/in/revathikollegala
+    link_text: LinkedIn
   - link_url: https://orcid.org/0000-0002-4816-4982
     link_text: Research
-  - link_url: "#"
-    link_text: Pricing
   cta:
-    link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    link_text: Download
-    open_in_new_tab: true
-- template: hero-banner-w-image
-  block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
-  cta:
-    enabled: true
-    link_url: https://github.com/forestryio/ubuild-jekyll
-    link_text: 'See on GitHub '
-  image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    link_url: "#contact"
+    link_text: Contact Me
+    open_in_new_tab: false
 - template: content-feature
   block: feature-1
   media_alignment: Left
